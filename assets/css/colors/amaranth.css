@@ -1,0 +1,214 @@
+/*
+
+Template Color CSS File
+
+Color code: #e91e63
+
+Author: Codingest
+Template Name: Varient
+Version: 1.0
+*/
+
+
+/*a tag*/
+a:hover {
+    color: #e91e63;
+}
+
+a:focus, a:active {
+    color: #e91e63;
+}
+
+/*navigation*/
+.navbar-toggle {
+    background-color: #e91e63 !important;
+}
+
+.navbar-inverse .navbar-toggle {
+    border-color: #e91e63 !important;
+}
+
+.navbar-default .navbar-nav > .active > a::after, .navbar-default .navbar-nav > li > a:hover:after {
+    background-color: #e91e63;
+}
+
+/*button color style*/
+.btn-custom {
+    background-color: #e91e63;
+    border-color: #e91e63;
+}
+
+.btn-custom:hover {
+    background-color: #cc1b57 !important;
+    border-color: #cc1b57 !important;
+}
+
+.btn-custom:focus {
+    background-color: #cc1b57 !important;
+    border-color: #cc1b57 !important;
+}
+
+.btn-custom:active {
+    background-color: #cc1b57 !important;
+    border-color: #cc1b57 !important;
+}
+
+::selection {
+    background: #e91e63 !important; /* WebKit/Blink Browsers */
+    color: #fff;
+}
+
+::-moz-selection {
+    background: #e91e63 !important; /* Gecko Browsers */
+    color: #fff;
+}
+
+/*navbar color style*/
+.navbar-inverse .navbar-nav .active a::after {
+    background-color: #e91e63;
+}
+
+.navbar-inverse .navbar-nav > li > a:hover {
+    color: #e91e63;
+}
+
+.navbar-inverse .navbar-nav > .active > a,
+.navbar-inverse .navbar-nav > .active > a:hover,
+.navbar-inverse .navbar-nav > .active > a:focus,
+.navbar-inverse .navbar-nav > .open > a,
+.navbar-inverse .navbar-nav > .open > a:hover,
+.navbar-inverse .navbar-nav > .open > a:focus {
+    color: #e91e63 !important;
+    background-color: transparent;
+}
+
+.navbar-inverse .navbar-nav > li > a:focus, .navbar-inverse .navbar-nav > li > a:hover {
+    background-color: transparent;
+    color: #e91e63;
+}
+
+.navbar-inverse .navbar-nav .dropdown-menu > li:hover > a,
+.navbar-inverse .navbar-nav .dropdown-menu > li:focus > a,
+.navbar-inverse .navbar-nav .dropdown-menu > li.active > a {
+    color: #e91e63;
+}
+
+.navbar-inverse .navbar-nav .open .dropdown-menu > li > a:focus, .navbar-inverse .navbar-nav .open .dropdown-menu > li > a:hover {
+    color: #e91e63;
+}
+
+.form-input:focus {
+    border-color: #e91e63;
+    outline: 0 none;
+}
+
+.post-content .post-tags .tag-list li a:hover {
+    border-color: #e91e63;
+    background-color: #e91e63;
+}
+
+/*Comments*/
+.comments .comments-title {
+    border-bottom: 2px solid #e91e63;
+}
+
+.comment-lists li .btn-comment-reply {
+    color: #e91e63;
+}
+
+.comment-lists li .btn-comment-like {
+    color: #e91e63;
+}
+
+.comment-loader-container .loader {
+    border-top: 5px solid #e91e63;
+}
+
+.sub-comment-loader-container .loader {
+    border-top: 5px solid #e91e63;
+}
+
+.f-random-list li .title a:hover {
+    color: #e91e63;
+}
+
+.leave-reply .form-control:focus {
+    border-color: #e91e63;
+}
+
+.page-contact .form-control:focus {
+    border-color: #e91e63;
+}
+
+.link-forget {
+    color: #e91e63;
+}
+
+.captcha-refresh {
+    color: #e91e63;
+}
+
+.newsletter .newsletter-button {
+    background-color: #e91e63;
+    border: 1px solid #e91e63;
+}
+
+.newsletter .newsletter-button:hover {
+    background-color: #cc1b57;
+    border: 1px solid #cc1b57;
+}
+
+.nav-footer li a:hover {
+    color: #e91e63;
+}
+
+.video-label {
+    background: #e91e63;
+}
+
+.post-author-meta a:hover {
+    color: #e91e63 !important;
+}
+
+.post-next-prev p span {
+    color: #e91e63;
+}
+
+.filters .active::after {
+    background: #e91e63;
+}
+
+.filters .btn:focus:after, .filters .btn:hover:after, .filters .btn:active:after {
+    background: #e91e63;
+}
+
+.pagination .active a {
+    border: 1px solid #e91e63 !important;
+    background-color: #e91e63 !important;
+    color: #fff !important;
+}
+
+.pagination li a:hover, .pagination li a:focus, .pagination li a:active {
+    background-color: #e91e63;
+    border: 1px solid #e91e63;
+}
+
+#search-form {
+    border-top: 2px solid #e91e63;
+}
+
+#search-form button {
+    background-color: #e91e63;
+}
+
+.sidebar-widget .tag-list li a:hover {
+    background-color: #e91e63;
+}
+
+.mobile-menu-social li a:hover, .mobile-menu-social li a:focus {
+    color: #e91e63;
+}
+
+.comment-error {
+    border-color: #e91e63 !important;
+}
